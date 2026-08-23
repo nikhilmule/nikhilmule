@@ -4,11 +4,11 @@ Senior Data Scientist at Alphabots GmbH, working on production
 document intelligence — OCR, layout-aware extraction, and
 end-to-end pipelines for logistics.
 
-🔬 Independent research on RLHF failure modes: entropy collapse,
+- 🔬 Independent research on RLHF failure modes: entropy collapse,
    reward hacking, and length hacking in GRPO fine-tuning
-📐 Background in mechanical engineering — I build ML *for*
+- 📐 Background in mechanical engineering — I build ML *for*
    engineering, not just adjacent to it
-🛠️ Python · PyTorch · Transformers · LoRA/PEFT · OpenCV · FastAPI
+- 🛠️ Python · PyTorch · Transformers · LoRA/PEFT · OpenCV · FastAPI
 
 📫 nikhilrajmule@gmail.com
 
