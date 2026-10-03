@@ -7,7 +7,7 @@ end-to-end pipelines for logistics.
 - 🔬 Independent research on RLHF failure modes: entropy collapse,
    reward hacking, and length hacking in GRPO fine-tuning
 - 🤖 Implemented RL on the games Pokemon Firered, Dragonball Z supersonic,
-     Mortal Kombat Deadly alliance, NES tetris, Meele, and Mario Kart
+     Mortal Kombat Deadly alliance, NES tetris, Meele, Space-Impact, and Mario Kart
 - 📐 Background in mechanical engineering — I build ML *for*
    engineering, not just adjacent to it
 - 🛠️ Python · PyTorch · Transformers · LoRA/PEFT · OpenCV · FastAPI
